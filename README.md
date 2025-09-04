@@ -48,7 +48,7 @@ The project requires Python 3.8 and various data science and finance libraries. 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/stefan-jansen/machine-learning-for-trading.git
+   git clone https://github.com/ninjamini325/machine-learning-for-trading.git
    cd machine-learning-for-trading
    ```
 
